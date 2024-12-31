@@ -3,7 +3,7 @@
 🏡 **From**: Inaruwa, Nepal  
 💻 **Flutter Developer**: [Krezona Tech](https://krezona.tech)  
 🎓 **Background**: Computer Engineer  
-🌟 **Interests**: Flutter Development, Data Science  
+🌟 **Interests**: Flutter Development, Data Science  Firebase, REST APIs
 
 ---
 
