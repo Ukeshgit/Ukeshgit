@@ -51,7 +51,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=dark" alt="GitHub Stats" style="margin: 10px;">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=dark" alt="Top Languages" style="margin: 10px;">  
-  <img src="https://github.com/Ukeshgit/metrics/blob/main/github-metrics.svg" alt="Metrics" style="margin: 10px;">  
 </div>
 
 ---
