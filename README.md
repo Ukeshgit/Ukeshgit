@@ -2,40 +2,58 @@
 
 🏡 **From**: Inaruwa, Nepal  
 💻 **Flutter Developer**: [Krezona Tech](https://krezona.tech)  
-🎓 **Background**: Computer Engineer  
+🎓 **Education**: Computer Engineer  
 🌟 **Interests**: Flutter Development, Data Science, Firebase, REST APIs  
 
 ---
 
-### 🚀 About Me  
-- Passionate about building beautiful and functional mobile applications.  
-- Keen interest in exploring data-driven solutions.  
-- Enthusiastic about learning and growing in the tech industry.  
+## 🚀 About Me  
+- 🔨 Passionate about building beautiful and functional mobile applications.  
+- 📊 Interested in exploring data-driven solutions and machine learning.  
+- 🌱 Always eager to learn and grow in the tech industry.  
 
 ---
 
-### 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ukeshgit)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yukesh-katuwal-3b5325209/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/katuwalukes)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yukeskatwal/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yukeskatuwal)  
+## 🌐 Connect with Me  
+<div align="center">
+  <a href="https://github.com/Ukeshgit"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/yukesh-katuwal-3b5325209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/katuwalukes"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/yukeskatwal/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/yukeskatuwal"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages**: Dart, Python, C, C++  
-- **Frameworks**: Flutter  
-- **Tools**: Git, GitHub, Visual Studio Code, Jupyter Notebook  
-- **Other Skills**: Data Analysis, Machine Learning, Deep Learning  
+## 🛠️ Tech Stack  
+
+### **Languages**  
+- Dart  
+- Python  
+- C, C++  
+
+### **Frameworks**  
+- Flutter  
+
+### **Tools**  
+- Git, GitHub  
+- Visual Studio Code  
+- Jupyter Notebook  
+
+### **Other Skills**  
+- Data Analysis  
+- Machine Learning & Deep Learning  
 
 ---
 
 ## 📊 My GitHub Stats  
 
-![Yukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=dark)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=dark" alt="GitHub Stats" style="margin: 10px;">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=dark" alt="Top Languages" style="margin: 10px;">  
+  <img src="https://github.com/Ukeshgit/metrics/blob/main/github-metrics.svg" alt="Metrics" style="margin: 10px;">  
+</div>
 
-![Metrics](https://github.com/Ukeshgit/metrics/blob/main/github-metrics.svg)  
+---
 
-✨ Let's create something amazing together!  
+✨ **Let's collaborate and create something amazing together!**  
