@@ -3,7 +3,7 @@
 🏡 **From**: Inaruwa, Nepal  
 💻 **Flutter Developer**: [Krezona Tech](https://krezona.tech)  
 🎓 **Background**: Computer Engineer  
-🌟 **Interests**: Flutter Development, Data Science  Firebase, REST APIs
+🌟 **Interests**: Flutter Development, Data Science, Firebase, REST APIs  
 
 ---
 
@@ -24,11 +24,18 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages**: Dart, Python, C , C++ , 
+- **Languages**: Dart, Python, C, C++  
 - **Frameworks**: Flutter  
 - **Tools**: Git, GitHub, Visual Studio Code, Jupyter Notebook  
-- **Other Skills**: Data Analysis, Machine Learning  , Deep Learning
+- **Other Skills**: Data Analysis, Machine Learning, Deep Learning  
 
 ---
+
+## 📊 My GitHub Stats  
+
+![Yukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=dark)  
+
+![Metrics](https://github.com/Ukeshgit/metrics/blob/main/github-metrics.svg)  
 
 ✨ Let's create something amazing together!  
