@@ -45,7 +45,8 @@ I'm a passionate Flutter developer who enjoys building elegant, user-friendly mo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=radical" alt="Yukesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Yukesh's GitHub Stats" />
+
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
