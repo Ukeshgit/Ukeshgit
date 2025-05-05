@@ -6,8 +6,6 @@
 🚀 **Focus Areas**: Flutter, Firebase, REST APIs, Data Science  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Ukeshgit&label=Profile%20views&color=0e75b6&style=flat)
-
 
 ## 👨‍💻 About Me
 
@@ -44,11 +42,20 @@ I'm a passionate Flutter developer who enjoys building elegant, user-friendly mo
 
 ---
 
+## 🔥 My Stats :
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ukeshgit&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ukeshgit&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ukeshgit&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Yukesh's GitHub Stats" />
-
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukeshgit&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
