@@ -23,11 +23,13 @@ I'm a passionate Flutter developer who enjoys building elegant, user-friendly mo
 ### 💬 Programming Languages
 - Dart  
 - Python  
-- C, C++  
+- C, C++
+- python
 
 ### 📱 Frameworks & Libraries
 - Flutter  
-- Firebase  
+- Firebase
+- Laravel
 - RESTful APIs  
 
 ### 🛠 Tools & Platforms
