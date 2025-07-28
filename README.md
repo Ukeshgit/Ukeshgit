@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yukesh Katuwal
 
 🏠 **Hometown**: Inaruwa, Nepal  
-👨‍💻 **Role**: Flutter Developer at [Krezona Tech](https://krezona.tech)  
+👨‍💻 **Role**: Flutter Developer at [Klixsoft]((https://klixsoft.com/))  
 🎓 **Background**: Computer Engineering Graduate  
 🚀 **Focus Areas**: Flutter, Firebase, REST APIs, Data Science  
 
